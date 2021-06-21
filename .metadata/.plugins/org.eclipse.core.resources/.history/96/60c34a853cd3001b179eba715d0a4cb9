@@ -1,0 +1,9 @@
+// '조건 ? 참 : 거짓' 연산의 형태를 숙지하고 프로그램 작성
+public class Main5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
