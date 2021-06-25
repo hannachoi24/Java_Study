@@ -1,4 +1,5 @@
-
+// 하나의 점을 의미하는 Node 클래스를 생성
+// Node 클래스를 이용해 두 점 사이의 중점 구하기
 public class Node {
 
 	private int x;
